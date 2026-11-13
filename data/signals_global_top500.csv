@@ -1,0 +1,501 @@
+drug,event,a,prr,ror,chi2
+Cetrotide,Premature Ovulation,15,2764443.6,3949204.714,2591668.5
+Acetaminophen Hydrocodone Bitartrate,Dependence,20288,172.367,342.843,1969105.148
+Gelatin,Post Embolisation Syndrome,20,568813.642,755309.59,1896043.745
+Auvi Q,No Device Malfunction,34,474696.512,597899.927,1698913.681
+Cisatracurium Besylate,Anaesthetic Complication Neurological,55,64153.003,98408.926,1680164.45
+Allergenic Extract  Peanut Arachi Hypogaea,False Negative Investigation Result,78,37001.02,63972.997,1655890.649
+Meningococcal Group B Vaccine,Meningococcal Infection,19,131442.699,270186.715,1634654.085
+ranitidine,bladder cancer,2895,1400.881,1943.333,1571909.481
+Obizur,Anti Factor Viii Antibody Positive,31,60138.773,158258.298,1405596.971
+Oxbryta,Sickle Cell Anaemia With Crisi,2948,1607.113,2017.908,1341718.93
+Repatha,Device Difficult To Use,23060,197.066,248.05,1320370.951
+Pylarify,Radioisotope Scan Abnormal,47,43973.155,64640.068,1214621.76
+Talc,Exposure To Chemical Pollution,363,26807.329,31478.811,1198718.223
+Neulasta,Device Adhesion Issue,2799,1686.773,2043.288,1197322.318
+Bupivacaine Hydrochloride With Dextrose,Anaesthetic Complication,88,18389.186,31873.856,1143475.046
+Risperdal,Gynaecomastia,2337,1735.715,2095.21,1135922.28
+Elmiron,maculopathy,625,7521.017,8808.338,1046347.52
+Ethinyl Estradiol Norelgestromin,Product Adhesion Issue,1070,1236.962,2376.049,1017332.404
+Paxlovid,Disease Recurrence,9496,293.659,354.55,1002320.461
+Tylenol Regular Strength,autism spectrum disorder,427,2874.528,4765.124,918472.34
+Elmiron,Pigmentary Maculopathy,426,183522.434,203828.961,906999.555
+Liletta,Device Expulsion,1413,829.504,1395.048,890659.683
+Delflex With Dextrose 1 5 Low Magnesium Low Calcium,Peritoniti Bacterial,259,5300.26,7140.083,869610.851
+Collagenase Clostridium Histolyticum,Fracture Of Peni,12,85852.537,179508.76,848411.57
+Repatha,Drug Dose Omission By Device,21223,73.107,90.013,799405.337
+Chloraprep With Tint,Product Contamination,186,5295.777,8800.504,776362.154
+Paragard T 380A,Foreign Body In Reproductive Tract,2361,70259.067,76712.509,769441.854
+Alteplase,Gingival Bleeding,926,1288.663,1650.538,749278.55
+Etelcalcetide,Shunt Stenosi,40,90337.784,100157.0,722690.196
+Glycerin,False Positive Investigation Result,16,50080.647,164548.411,712240.773
+minoxidil,adverse drug reactions,3671,253.211,379.782,709389.605
+hydralazine,Anti Neutrophil Cytoplasmic Antibody Positive Vasculiti,228,4676.603,5970.338,694859.544
+ranitidine,Oesophageal Carcinoma,1235,1483.923,1684.493,685303.72
+Elmiron,Dry Age Related Macular Degeneration,405,7652.437,8452.961,680617.643
+Percocet,Dependence,9562,90.851,143.276,679657.169
+Histamine Phosphate,False Negative Investigation Result,24,32346.885,73204.846,674483.794
+Slynd,Intermenstrual Bleeding,686,1437.596,1786.818,636533.55
+Paragard T 380A,Complication Of Device Removal,2451,1131.608,1239.796,621412.034
+Dianeal Pd 2 Peritoneal Dialysi Solution With Dextrose,Ultrafiltration Failure,128,9399.09,10722.473,584522.339
+Oxytocin Sodium Chloride   Human Compounded Drug,Postpartum Haemorrhage,11,54343.999,1304232.975,583640.967
+Eligard,Intercepted Product Preparation Error,3576,623.694,677.58,548702.218
+Aztreonam Lysine,Cystic Fibrosi,321,3882.763,4325.723,536754.784
+Talc,Mesothelioma,204,8261.603,9013.237,527630.424
+Aducanumab,Amyloid Related Imaging Abnormality Oedema Effusion,43,13847.563,22233.509,508299.077
+Paragard T 380A,Complication Of Device Insertion,2309,633.552,690.26,496962.721
+Beyfortu,Respiratory Syncytial Viru Bronchioliti,98,12935.475,14190.503,495979.316
+Haegarda,Hereditary Angioedema,687,980.611,1226.05,492656.209
+ranitidine,Gastric Cancer,1083,921.121,1028.467,488691.75
+Carya Illinoinensi Pollen,False Negative Investigation Result,13,39148.03,140930.308,472756.528
+Defitelio,Venoocclusive Disease,204,4622.759,5135.45,465490.198
+Nexplanon,Pregnancy With Implant Contraceptive,546,2335.014,2527.896,452723.556
+Endari,Sickle Cell Anaemia With Crisi,725,758.859,1052.367,452225.221
+Quinapril,Recalled Product Administered,198,2523.258,4182.417,439273.375
+Neulasta,Unintentional Medical Device Removal,1104,1266.746,1360.342,435325.441
+Voltaren Arthriti Pain,Drug Effective For Unapproved Indication,2395,231.222,297.423,433015.378
+olmesartan,Sprue Like Enteropathy,110,8253.255,9065.194,432218.463
+Zilretta,Recalled Product Administered,221,2207.124,3351.616,422016.092
+Genotropin,Device Information Output Issue,2422,1771.038,1865.787,419806.793
+Mirena,Device Expulsion,2087,311.738,358.1,418733.556
+Hemlibra,haemorrhage,2622,194.823,260.858,415630.413
+Ioflupane I 123,Radioisotope Scan Abnormal,13,35941.427,59302.705,413939.051
+Adstiladrin,Instillation Site Discharge,18,46682.734,51082.06,408124.539
+Excedrin Extra Strength,Drug Effective For Unapproved Indication,1168,388.718,677.529,405436.375
+Nicorette,Nicotine Dependence,100,6004.618,6894.043,398844.604
+Oxervate,Eye Pain,2334,229.036,275.058,394087.869
+Genotropin,Device Mechanical Issue,3500,269.024,290.262,389850.293
+Acetaminophen Oxycodone Hydrochloride,Dependence,6450,71.534,103.846,388778.319
+Pluvicto,Ill Defined Disorder,3262,139.249,199.596,386152.593
+ranitidine,Hepatic Cancer,927,757.25,831.52,377951.394
+Givlaari,Porphyria Acute,175,3337.147,3728.714,364015.65
+Hydralazine Hydrochloride,Anti Neutrophil Cytoplasmic Antibody Positive Vasculiti,129,3492.674,4362.222,361638.224
+Elmiron,Retinal Pigmentation,184,22018.863,23008.913,360997.267
+Viread,Skeletal Injury,1050,1325.65,1399.866,360745.636
+Mirena,Genital Haemorrhage,868,1500.622,1586.219,359151.222
+Belantamab Mafodotin,Keratopathy,108,5973.179,6545.999,358280.174
+Paragard T 380A,Reproductive Complication Associated With Device,1094,716521.799,745598.121,358138.868
+Aducanumab,Amyloid Related Imaging Abnormality Microhaemorrhage And Haemosiderin Deposit,33,12292.291,17299.853,352052.636
+Neupro,Product Adhesion Issue,774,538.959,696.322,346484.676
+Datscan,False Positive Radioisotope Investigation Result,10,72614.035,78157.014,343952.452
+Tioconazole,Vulvovaginal Burning Sensation,121,3427.815,4381.021,343505.522
+Nexplanon,Unintended Pregnancy,553,1135.327,1230.37,333059.51
+Genotropin,Device Breakage,4007,144.877,158.081,326870.984
+Tavalisse,Platelet Count,205,33688.399,34967.51,321203.394
+Albuterol Sulfate,Device Delivery System Issue,3806,140.271,154.175,321017.089
+clozapine,neutropenia,5103,79.805,96.38,317247.473
+Genotropin,Device Leakage,4561,111.852,123.581,317239.587
+Yescarta,Immune Effector Cell Associated Neurotoxicity Syndrome,702,634.345,715.507,311437.613
+Delflex,Bloody Peritoneal Effluent,90,6776.871,7268.668,308225.48
+Etonogestrel,Uterine Haemorrhage,222,2314.044,2525.185,307982.829
+Kit For The Preparation Of Technetium Tc99M Sestamibi,Product With Quality Issue Administered,12,33356.659,38839.781,306079.74
+Luveri,Ovarian Hyperstimulation Syndrome,52,6725.843,9104.698,305308.843
+Spravato,Dissociation,669,1107.341,1173.508,304794.453
+Chloraprep,Product Contamination,134,2643.262,3361.443,300002.744
+Pluvicto,General Physical Health Deterioration,2623,133.683,176.585,299462.534
+Aducanumab,Superficial Siderosi Of Central Nervou System,10,47547.719,52119.519,299362.814
+Plan B One Step,Vaginal Haemorrhage,496,722.456,897.697,298124.787
+tirzepatide,Product Tampering,147,3061.611,3385.521,297788.133
+fentanyl,drug abuse,1962,185.804,226.947,296558.595
+Leqembi,Amyloid Related Imaging Abnormality Microhaemorrhage And Haemosiderin Deposit,164,5218.689,5485.929,294312.747
+Cytotec,Post Abortion Haemorrhage,18,65350.631,68255.059,294069.606
+Leqembi,Amyloid Related Imaging Abnormality Oedema Effusion,177,4140.03,4369.76,291487.065
+Truvada,Bone Density Decreased,1905,236.636,260.17,290430.503
+ranitidine,pancreatic carcinoma,921,489.409,537.035,289480.066
+Eligard,Syringe Issue,2731,219.248,233.383,286305.569
+Claravi,Unintended Pregnancy,189,1800.45,2232.593,285501.025
+Tylenol Extra Strength,autism spectrum disorder,205,1580.39,2124.55,284580.927
+metformin,lactic acidosis,2235,217.986,235.746,283953.01
+Dinoprostone,Uterine Tachysystole,11,73131.992,76788.542,283916.964
+Advil Dual Action With Acetaminophen,Drug Effective For Unapproved Indication,932,331.197,526.962,281820.373
+Vigabatrin,Magnetic Resonance Imaging Head Abnormal,127,3602.467,3908.002,279679.235
+Genotropin,Poor Quality Device Used,1856,702.625,731.05,279506.754
+Velsipity,Diabetic Eye Disease,65,11329.895,11885.233,271652.571
+heparin,heparin-induced thrombocytopenia,155,2505.848,2771.047,269462.488
+Ruconest,Vascular Acces Site Complication,84,23677.781,24496.237,266538.4
+Xiaflex,Fracture Of Peni,53,22701.612,23572.816,265387.134
+Varithena,Peripheral Vein Thrombu Extension,17,81756.008,84764.309,264727.867
+Semglee Insulin Glargine Yfgn,Device Mechanical Issue,753,402.025,521.192,263601.505
+Voltaren Arthriti Pain,Product Administered At Inappropriate Site,1228,286.948,323.927,262383.861
+Bupivacaine Hydrochloride,Anaesthetic Complication,74,4706.78,5320.938,262284.339
+Ranitidine Hydrochloride,bladder cancer,792,396.559,477.323,260302.233
+Endocet,Dependence,3169,89.557,154.928,260047.278
+Mirena,Device Dislocation,1549,239.245,264.651,259299.624
+Lanadelumab,Hereditary Angioedema,712,502.335,558.851,257579.846
+Tioconazole,Vulvovaginal Swelling,54,6532.223,7234.785,252940.291
+Viread,renal injury,1224,373.395,397.945,252110.943
+Mounjaro,Incorrect Dose Administered,10725,32.263,36.573,248682.296
+Yescarta,Cytokine Release Syndrome,1058,280.267,337.953,247981.492
+Etonogestrel,Pregnancy With Implant Contraceptive,246,1420.769,1565.812,247672.607
+Slynd,Amenorrhoea,392,834.132,938.942,247599.742
+Albuterol Sulfate,Device Deposit Issue,1166,6377.233,6559.621,246583.572
+Dinoprostone,Uterine Hyperstimulation,11,48754.661,51192.344,241326.198
+Follitropin Beta,Ovarian Hyperstimulation Syndrome,65,4351.023,5197.585,237880.95
+Acetaminophen Hydrocodone Bitartrate,overdose,5856,51.612,60.122,237319.279
+Estradiol Transdermal System,Product Adhesion Issue,527,508.987,658.462,236969.737
+Genotropin,Drug Dose Omission By Device,7588,39.138,46.359,235460.377
+Plan B One Step,Pregnancy After Post Coital Contraception,88,9981.833,10340.328,234196.456
+Sotorasib,non-small cell lung cancer,151,1794.79,2202.101,233611.706
+Dupixent,Dermatiti Atopic,12356,164.984,170.069,231875.738
+Didanosine,Retinal Toxicity,10,24979.211,36873.597,230413.158
+Hemangeol,Haemangioma,197,2337.441,2459.079,228877.013
+Adefovir Dipivoxil,Hypophosphataemic Osteomalacia,10,28197.02,32469.144,228753.362
+Spinraza,Post Lumbar Puncture Syndrome,122,5001.636,5208.022,228347.201
+Nuplazid,hallucinations,3496,97.666,106.0,227953.828
+Delflex With Dextrose 2 5 Low Magnesium Low Calcium,Peritoniti Bacterial,93,2785.75,3420.509,224851.324
+Advate,Haemarthrosi,526,573.927,634.575,224144.13
+Paxlovid,Covid 19,10046,27.776,33.742,223867.964
+Aimovig,Device Difficult To Use,4759,55.488,66.5,218226.917
+Intrarosa,Application Site Discharge,33,12329.455,12989.908,217728.849
+Vedolizumab,Coliti Ulcerative,5556,77.212,81.28,216840.209
+Proactiv Md Adapalene Acne Treatment,acne,1761,155.798,173.583,210229.707
+Viread,Bone Density Decreased,1565,187.982,204.037,207347.841
+Cablivi,Adamts13 Activity Decreased,45,13248.022,13721.506,207330.6
+Testosterone Cypionate,Product Deposit,113,2753.718,2949.351,206065.983
+Nirsevimab,Respiratory Syncytial Viru Bronchioliti,24,10089.09,11869.341,206005.783
+ranitidine,Injury,1236,205.027,232.647,204018.737
+Boniva,Low Turnover Osteopathy,25,12615.617,13424.247,201088.162
+Percocet,Ill Defined Disorder,3663,65.895,76.56,197873.986
+Fabrazyme,Globotriaosylsphingosine Increased,74,24655.399,25263.946,197823.029
+Ganirelix Acetate,Ovarian Hyperstimulation Syndrome,43,5116.805,6426.207,196878.841
+Plan B One Step,Dysmenorrhoea,267,920.366,1028.455,195633.911
+Zypadhera,Post Injection Delirium Sedation Syndrome,22,11501.946,12689.837,195619.695
+hydralazine,Pulmonary Renal Syndrome,46,8222.148,8598.065,195035.829
+Talc,Mesothelioma Malignant,67,12016.351,12354.74,192094.921
+Photrexa,Corneal Infiltrate,10,28795.944,30715.607,191960.25
+Crysvita,Blood Phosphoru Decreased,236,1240.446,1313.445,186005.24
+Edaravone,amyotrophic lateral sclerosis,50,4513.334,5091.838,185578.279
+Risperdal,Emotional Disorder,1037,245.49,265.649,185303.545
+Etonogestrel,Unintended Pregnancy,251,937.823,1035.677,184951.219
+Neotigason,Psoriasi Area Severity Index Increased,13,17098.449,19321.118,183731.34
+Bridion,Recurrence Of Neuromuscular Blockade,21,20975.522,21717.045,183519.032
+Botox Cosmetic,Multiple Use Of Single Use Product,454,673.365,708.831,183331.139
+Elmiron,Retinal Dystrophy,93,22258.198,22753.039,182633.766
+Sinuva,Nasal Crusting,12,16615.73,21252.399,181379.582
+Paragard T 380A,Device Breakage,2293,106.724,116.131,181290.279
+Proactiv Md Adapalene Acne Treatment,skin irritation,1234,204.059,219.864,180890.937
+ferric carboxymaltose,Hypophosphataemia,248,912.809,1012.425,180801.757
+Excedrin Migraine,Drug Effective For Unapproved Indication,716,270.176,391.086,180054.416
+Tramadol Hydrochloride,Dependence,3800,52.994,70.13,179028.892
+Dolutegravir,Viral Mutation Identified,186,1236.689,1356.209,178998.033
+Afrin Original Nasal,Drug Dependence,253,721.222,1564.816,175656.573
+Unituxin,Neuroblastoma Recurrent,38,8868.471,9223.544,172783.984
+Emtricitabine Tenofovir Disoproxil Fumarate,Caesarean Section,187,1146.254,1264.641,171425.643
+Plan B One Step,Menstruation Delayed,195,1158.433,1254.762,170962.018
+heparin sodium,heparin-induced thrombocytopenia,154,1578.543,1680.107,169050.86
+Miconazole 1,Vulvovaginal Burning Sensation,54,3376.882,4436.752,168317.233
+Epkinly,Diffuse Large B Cell Lymphoma Refractory,95,2737.52,2879.502,165288.8
+Vyvgart,Myasthenia Gravi Crisi,361,1124.803,1159.786,164677.121
+Viread,Multiple Fracture,1014,252.202,265.767,164495.592
+Tislelizumab,myelosuppression,906,197.912,259.665,164333.213
+Viread,Bone Los,984,257.129,270.53,161658.836
+Blinatumomab,Acute Lymphocytic Leukaemia Recurrent,123,1733.906,1866.626,160733.858
+Nexium,Rebound Acid Hypersecretion,128,2919.152,3010.725,160030.544
+Neulasta,Device Occlusion,982,228.552,243.398,159157.116
+Olanzapine Pamoate,Post Injection Delirium Sedation Syndrome,27,8133.033,8668.557,158431.073
+Qutenza,Application Site Pain,159,1081.622,1375.832,157923.081
+Xgeva,Bone Giant Cell Tumour,87,21283.563,21684.425,155917.057
+Curosurf,Endotracheal Intubation Complication,15,14290.654,15210.589,154794.665
+Aduhelm,Amyloid Related Imaging Abnormality Oedema Effusion,43,4176.129,4712.042,153240.882
+Risdiplam,Apnoea Test Abnormal,12,43108.065,44140.57,152139.335
+Qwo,Cellulite,30,6328.639,6896.99,151841.805
+Myoview,Radioisotope Scan Abnormal,13,13178.442,15403.205,151762.125
+gefitinib,Acquired Gene Mutation,55,3449.081,3755.453,151398.267
+Eligard,Hot Flush,3100,66.275,71.117,150678.719
+Vyvanse,Product Availability Issue,1155,149.491,172.918,149904.829
+Prilosec Otc,Hyperchlorhydria,75,2488.922,2705.138,148819.156
+Carbidopa Levodopa,On And Off Phenomenon,901,711.29,726.595,148209.297
+Bss,Toxic Anterior Segment Syndrome,10,17320.991,19358.637,146950.064
+Chloraprep With Tint,Product Contamination Physical,63,2639.183,3050.583,146549.985
+Paragard T 380A,Deformity,717,545.82,560.104,146195.91
+Dolutegravir,virologic failure,178,999.432,1091.468,144500.883
+Etelcalcetide,Shunt Occlusion,21,9880.695,10416.803,144315.933
+Acetaminophen Hydrocodone Bitartrate,Ill Defined Disorder,3938,45.755,50.551,143678.9
+Tyrvaya,Sneezing,521,318.444,362.302,143628.259
+Remodulin,Infusion Site Pain,1174,201.991,210.495,143567.477
+Paxlovid,dysgeusia,2716,79.479,83.545,142488.373
+Repatha,Accidental Exposure To Product,7122,28.918,30.818,142087.357
+Repatha,Wrong Technique In Product Usage Proces,8818,22.084,23.891,140275.491
+Albuterol Sulfate,Wrong Technique In Product Usage Proces,5297,32.145,36.649,139995.105
+Tapinarof,Application Site Folliculiti,30,16301.219,16654.803,139708.229
+Dupixent,eczema,9744,48.939,50.103,139563.611
+Truvada,Bone Los,934,223.916,234.303,137222.929
+arsenic trioxide,Differentiation Syndrome,18,8909.771,9905.782,136684.984
+Albuterol Sulfate,Drug Dose Omission By Device,5456,30.282,34.662,136367.135
+Ertugliflozin,Urine Ketone Body Present,11,12975.297,17579.08,134740.778
+Anticoagulant Sodium Citrate,Tetany,169,1910.436,1958.772,133269.995
+Delflex With Dextrose 1 5 Low Magnesium Low Calcium,Peritoniti,160,915.086,1088.167,132860.673
+Percocet,withdrawal syndrome,1722,100.224,107.276,131953.983
+Taxotere,Lacrimal Structure Injury,61,2836.376,3018.437,131862.833
+Proactiv Md Adapalene Acne Treatment,Skin Burning Sensation,1298,126.615,136.941,131052.507
+Lumakra,non-small cell lung cancer,199,803.651,872.203,130710.371
+Metformin Hydrochloride,lactic acidosis,850,183.69,202.034,130310.424
+Cequa,Eye Irritation,607,232.465,292.099,130285.587
+Tylenol Regular Strength,Foetal Exposure During Pregnancy,435,311.995,523.044,130283.486
+Kovaltry,Haemarthrosi,192,747.822,881.457,129893.496
+Cablivi,Adamts13 Activity Abnormal,21,49459.284,50268.811,129825.708
+Opana Er,Dependence,1695,81.042,133.771,129806.823
+Avodart,Contraindicated Product Prescribed,50,2867.818,3372.539,129805.835
+Oxycontin,Drug Dependence,794,185.18,212.146,129385.997
+Sublocade,Drug Delivery System Removal,36,46684.936,47405.614,129276.369
+Vyvgart,Myasthenia gravis,633,279.976,295.569,129056.521
+Liletta,Procedural Pain,441,331.053,378.901,129025.005
+dapsone,Methaemoglobinaemia,62,2483.823,2717.412,128838.654
+Truvada,anhedonia,1052,172.606,181.666,128819.407
+Paragard T 380A,Embedded Device,727,386.325,396.572,128175.178
+Belantamab Mafodotin,Night Blindnes,60,2986.589,3139.175,127913.9
+Teriparatide,Device Operational Issue,222,752.384,800.098,127792.962
+Gold Bond Original Strength Powder,Mesothelioma,24,5786.325,6983.288,127609.824
+Tecartu,Immune Effector Cell Associated Neurotoxicity Syndrome,240,593.45,686.688,127490.183
+Calcium Cl Dextrose Magnesium Cl Sodium Bicar Sodium Cl Sodium Lact,Peritoneal Cloudy Effluent,41,3513.352,3955.09,126297.63
+Xywav,Product Administration Interrupted,1228,149.799,156.931,126294.857
+Reguneal Lca,Peritoneal Cloudy Effluent,51,2923.462,3211.751,126248.491
+Bcg Live,Disseminated Bacillu Calmette Guerin Infection,13,12497.698,13309.984,126034.991
+Zepbound,Accidental Underdose,1079,155.305,164.825,125995.305
+indomethacin,Ductu Arteriosu Stenosi Foetal,24,10237.776,10530.255,125336.695
+Aranesp,Circumstance Or Information Capable Of Leading To Medication Error,798,171.044,210.262,125164.406
+Azelastine Hydrochloride,Product Delivery Mechanism Issue,172,799.941,942.787,124970.701
+Axicabtagene Ciloleucel,Cytokine Increased,69,6967.061,7095.855,124024.283
+Curosurf,Pulmonary Haemorrhage Neonatal,10,18577.851,19358.391,123839.409
+Atripla,anhedonia,759,206.352,220.971,123535.744
+glatiramer,abortion,50,2924.78,3202.178,123521.202
+Twirla,Product Adhesion Issue,171,749.826,1178.084,123229.754
+Neulasta,Device Malfunction,1537,95.277,105.272,123106.42
+Voraxaze,Laboratory Test Interference,10,14353.201,15832.809,123011.229
+Vascepa,Product Odour Abnormal,207,682.429,760.706,122625.197
+Botulinum Toxin Type A,Botulism,56,3240.567,3374.651,121266.451
+Enspryng,Neuromyeliti Optica Spectrum Disorder,98,1624.96,1718.247,120664.031
+Niacin,Recalled Product Administered,69,1823.175,2650.346,120418.111
+Genosyl,Undersensing,22,12538.26,12835.159,120220.024
+Orgovyx,Hot Flush,1788,79.91,88.136,119801.236
+Jivi,Haemarthrosi,137,934.132,1160.396,119244.394
+Viread,Osteonecrosi,988,165.001,173.619,118893.319
+Singulair,Neuropsychological Symptom,171,1985.478,2025.204,117808.325
+Beovu,Retinal Vasculiti,72,2204.119,2318.32,117492.161
+lamivudine,Viral Mutation Identified,169,870.67,929.838,117385.354
+Emtricitabine Tenofovir,HIV infection,92,1616.376,1720.448,117260.268
+Percocet,overdose,3300,41.521,47.425,117203.314
+Aimovig,Drug Dose Omission By Device,4140,32.985,38.464,117126.168
+Paragard T 380A,Device Expulsion,1463,107.497,113.354,116271.645
+Nexplanon,Complication Associated With Device,407,369.472,391.703,116230.806
+Tubersol,Poor Quality Product Administered,132,920.302,1281.456,115840.22
+Idelvion,Haemarthrosi,163,770.825,916.226,115438.133
+Oxervate,Eyelid Pain,281,1087.827,1110.253,115437.366
+Truvada,Tooth Los,927,176.018,184.109,115133.881
+Dicloxacillin Sodium,Suspected Transmission Of An Infectiou Agent Via Product,13,9453.31,11771.801,115078.027
+Ycanth,Application Site Vesicle,22,5586.535,6768.091,114144.539
+propofol,Propofol Infusion Syndrome,58,4441.852,4542.583,113900.561
+Dupixent,pruritus,20622,9.896,10.367,113628.824
+Mirena,Complication Of Device Insertion,838,180.007,189.852,113521.415
+Meningococcal Group B Vaccine,Vaccination Failure,17,6861.975,12693.804,113500.361
+Datscan,Radioisotope Scan Abnormal,14,9149.368,10157.85,112337.494
+Talc,Epithelioid Mesothelioma,44,7891.335,8035.871,112150.722
+lamivudine,Hiv Viraemia,63,3645.993,3734.655,111987.63
+Genotropin,Device Physical Property Issue,1200,184.032,188.759,111655.586
+Voltaren Arthriti Pain,Product Use In Unapproved Indication,2739,44.329,59.192,110975.636
+Voxelotor,Acute Chest Syndrome,36,3510.728,3886.77,110637.305
+Belantamab Mafodotin,Corneal Epithelial Microcyst,20,21332.781,21684.21,110604.373
+Anticoagulant Sodium Citrate,Paraesthesia,1234,97.779,119.063,110412.799
+Paragard T 380A,Injury Associated With Device,1178,133.798,139.617,110265.296
+Tice Bcg,Bladder Cancer Recurrent,28,5462.351,5705.851,110081.877
+Hemangeol,Infantile Spitting Up,72,4502.355,4585.266,109991.642
+Eloctate,Traumatic Haemorrhage,112,1334.539,1397.241,109639.543
+Spevigo,Generalised Pustular Psoriasi,14,10539.525,11044.797,109278.677
+Mycophenolate Sodium,Cytomegaloviru Syndrome,15,16360.366,16716.52,109056.092
+Cabenuva,Viral Load Increased,221,703.551,732.208,108369.862
+Dianeal For Peritoneal Dialysi,Therapeutic Product Effect Increased,52,2561.685,2723.675,107086.484
+clozapine,neutrophilia,655,346.081,353.953,107008.757
+Triazolam,Alcohol Interaction,25,5043.2,5455.144,106702.13
+Tikosyn,Wrong Strength,34,4530.354,4703.775,105939.809
+Daytrana,Adhesive Tape Use,53,3164.054,3263.781,105039.716
+Epkinly,Diffuse Large B Cell Lymphoma,197,597.553,665.523,104315.641
+Zepbound,Incorrect Dose Administered,3150,37.28,44.692,103938.047
+Humalog,Blood Glucose Increased,1400,81.893,96.814,103796.311
+Tylenol Regular Strength,Attention Deficit Hyperactivity Disorder,158,712.456,834.907,103653.193
+Fabrazyme,Globotriaosylceramide Increased,39,23389.311,23690.05,103648.803
+Aztreonam Lysine,Cystic Fibrosi Respiratory Infection Suppression,50,6998.304,7111.75,103467.272
+gefitinib,Egfr Gene Mutation,23,6690.016,6926.341,103282.861
+acetazolamide,Exertional Rhabdomyolysi,11,30031.424,30528.916,103226.325
+Listerine Original,drug abuse,170,616.528,2226.37,102975.57
+Delflex,Peritoniti,162,700.968,798.053,102847.872
+Palynziq,Amino Acid Level Decreased,65,14384.561,14566.561,102451.933
+Ethinyl Estradiol Norelgestromin,No Adverse Event,1050,101.269,190.416,102234.434
+Advil Pm Diphenhydramine Citrate Ibuprofen,Drug Effective For Unapproved Indication,374,282.236,423.421,101460.465
+Empagliflozin,Euglycaemic Diabetic Ketoacidosi,179,690.299,734.666,100849.564
+minoxidil,Application Site Pruritu,479,282.604,295.442,100528.167
+Baclofen,encephalopathy,498,234.911,255.562,100326.741
+Dupixent,Dry Skin,10644,20.171,20.681,100143.736
+Ibrance,Neoplasm Progression,2245,65.318,67.856,100071.357
+Ranitidine Hydrochloride,Neoplasm Malignant,719,151.061,178.363,99662.241
+Syfovre,Choroidal Neovascularisation,43,3429.505,3546.975,99373.105
+Truvada,chronic kidney disease,1355,90.342,96.511,99342.455
+clozapine,Neutrophil Count Normal,317,198617.176,200787.975,99154.866
+Ztalmy,Change In Seizure Presentation,48,2328.424,2569.192,98880.311
+Simponi,Device Deployment Issue,694,227.634,234.48,98745.316
+Polyethylene Glycol 3350,Incorrect Product Administration Duration,306,350.688,408.591,98657.055
+Choriogonadotropin Alfa,Ovarian Hyperstimulation Syndrome,27,3889.82,4639.806,98062.771
+Mogamulizumab,Adult T Cell Lymphoma Leukaemia Recurrent,10,23760.464,24197.219,97829.151
+Nexium,Nephrogenic Anaemia,124,1228.422,1265.698,97420.684
+Nexplanon,Implant Site Pain,131,1756.562,1789.313,97206.693
+Memantine Hydrochloride,Echolalia,13,9804.332,10251.502,96753.218
+mitomycin,Pulmonary Veno Occlusive Disease,13,8462.824,9271.674,96752.221
+Acetaminophen Oxycodone Hydrochloride,overdose,2665,41.473,47.511,96668.756
+Genosyl,Device User Interface Issue,13,31488.129,31924.518,96310.69
+Rhopressa,Cornea Verticillata,18,7491.358,7775.802,96292.402
+Envarsu Xr,Prophylaxi Against Transplant Rejection,15,13269.179,13542.187,96072.979
+Sabril,Drug Withdrawal Convulsion,59,2442.464,2521.308,95993.463
+Tafasitamab,Diffuse Large B Cell Lymphoma,140,744.747,857.926,95797.023
+Vascepa,Poor Quality Product Administered,249,421.818,481.354,95760.457
+Vedolizumab,Crohn's disease,4097,35.122,36.447,95589.53
+Viread,Tooth Injury,427,435.061,444.633,95504.809
+Leqembi,Amyloid Related Imaging Abnormalitie,49,6704.743,6803.773,95199.095
+Buprenorphine Transdermal System,Product Adhesion Issue,162,609.134,865.024,94971.291
+Lecanemab,Amyloid Related Imaging Abnormality Oedema Effusion,23,4468.905,5144.969,94704.443
+Truvada,Multiple Fracture,792,166.071,172.547,94267.151
+Repatha,Device Use Error,2773,61.522,63.062,94129.981
+abacavir,Genetic Polymorphism,10,17216.771,17611.628,93898.977
+Sabril,Retinogram Abnormal,24,19539.716,19791.557,93781.341
+Sotrovimab,Exposure During Pregnancy,311,314.284,439.196,93724.934
+Ranitidine Hydrochloride,Oesophageal Carcinoma,307,363.13,388.605,93645.338
+Pitocin,Postpartum Haemorrhage,10,9917.991,12027.989,93429.874
+Gablofen,Muscle Spasticity,92,1084.446,1295.626,93401.255
+hydralazine,Glomerulonephriti Rapidly Progressive,48,2502.393,2621.981,93350.198
+Truvada,Osteonecrosi,901,137.629,143.76,93039.204
+Atripla,Bone Density Decreased,797,138.535,148.853,92915.173
+Gold Bond Medicated Original Strength Body,Exposure To Chemical Pollution,30,3332.844,3870.238,92688.516
+Gablofen,Implant Site Extravasation,17,8168.704,8422.545,92556.491
+Durysta,Implantation Complication,14,7972.093,8423.896,91027.607
+Vyvanse,Inability To Afford Medication,516,212.619,226.337,90921.205
+Pradaxa,Procoagulant Therapy,24,21913.603,22177.346,90668.988
+Albuterol Sulfate,No Adverse Event,4431,24.582,27.369,90547.995
+Orgalutran,Ovarian Hyperstimulation Syndrome,24,4006.545,4814.386,90487.208
+Desmopressin Acetate,Labelled Drug Disease Interaction Medication Error,15,8531.863,8826.031,90316.697
+Parathyroid Hormone,Recalled Product,70,1825.605,1887.667,89791.7
+Opill,Polymenorrhoea,52,2008.947,2158.536,89697.876
+Clozaril,Differential White Blood Cell Count Abnormal,231,3146.873,3181.711,88393.778
+docetaxel,Lacrimal Structure Injury,184,1692.968,1716.004,88380.262
+Xolair,No Adverse Event,5054,21.561,23.628,88096.472
+Xulane,Lack Of Application Site Rotation,13,10125.722,10423.508,87739.296
+Miconazole 3 Combination Pack,Vulvovaginal Burning Sensation,34,2710.578,3378.155,87663.375
+acetaminophen,Toxicity To Variou Agent,3322,32.31,34.887,87585.719
+Suboxone,Inappropriate Schedule Of Product Discontinuation,67,1885.267,1945.758,87578.312
+Viread,chronic kidney disease,1236,85.812,91.462,87529.22
+Mounjaro,Extra Dose Administered,2906,45.096,46.593,87264.139
+Aranesp,Product Storage Error,1126,81.982,111.096,87075.685
+Talc,Pleural Mesothelioma Malignant,35,7323.398,7429.696,87028.439
+Osimertinib,Acquired Gene Mutation,87,1470.081,1515.021,87022.697
+Dolutegravir,Pathogen Resistance,189,515.684,566.348,86852.398
+Advil Dual Action With Acetaminophen Back Pain,Drug Effective For Unapproved Indication,265,335.721,560.28,86465.94
+Calcitriol,Milk Alkali Syndrome,23,4892.168,5097.83,86344.503
+Oxervate,Periorbital Pain,198,1272.558,1290.934,86088.468
+Lidocaine,Local Anaesthetic Systemic Toxicity,104,1382.523,1415.431,85925.333
+Calcium Chloride Dextrose Magnesium Chloride Sodium Chloride,Peritoneal Cloudy Effluent,33,2886.368,3186.738,85782.85
+Trikafta,Infective Pulmonary Exacerbation Of Cystic Fibrosi,195,771.662,788.764,85625.02
+Eligard,Device Leakage,2326,47.142,49.663,85464.433
+Rilpivirine,Viral Load Increased,209,572.52,591.804,85293.533
+Remodulin,Infusion Site Erythema,706,197.215,202.124,85045.382
+Vascepa,Product Physical Issue,238,389.375,441.568,85008.323
+Defitelio,Venoocclusive Liver Disease,124,804.565,856.489,84458.234
+Briumvi,Infusion Related Reaction,356,244.97,369.76,84264.977
+Excedrin Extra Strength,Product Use In Unapproved Indication,1191,73.473,129.341,83830.115
+Vedolizumab,Therapeutic Reaction Time Decreased,1163,554.999,560.937,83711.666
+Vevye,Instillation Site Irritation,71,1502.772,1567.946,83351.061
+Trelegy Ellipta,Product Complaint,1024,96.96,103.486,83219.67
+Emgality,Accidental Underdose,654,150.649,160.757,83194.417
+Ranibizumab,Conjunctival Bleb,10,36006.288,36433.397,83086.935
+Tremfya,Product Dose Omission Issue,4537,20.966,26.153,82997.787
+Latanoprost,Product Closure Removal Difficult,60,1989.555,2050.182,82934.298
+Paragard T 380A,Device Placement Issue,538,294.99,300.736,82922.385
+Inflectra,Intentional Product Use Issue,5136,22.743,23.74,82787.318
+Carvykti,Cranial Nerve Paralysi,61,2575.871,2625.782,82764.106
+Gold Bond Medicated Original Strength Body,Mesothelioma,24,3750.365,4219.035,82693.868
+Acetaminophen Hydrocodone Bitartrate,Drug Withdrawal Syndrome Neonatal,1107,114.199,117.365,82486.766
+Ozurdex,Implantation Complication,25,4856.595,4990.727,81442.894
+acetaminophen,Exposure To Toxic Agent,592,392.026,397.398,80529.812
+Sajazir,Hereditary Angioedema,107,783.681,990.976,80178.762
+Tecartu,Cytokine Release Syndrome,321,263.374,321.699,79930.11
+Genosyl,Drug Level Fluctuating,29,3848.918,3969.948,79843.291
+Teduglutide,Vascular Device Infection,595,214.306,219.509,79826.931
+digoxin,Cardioactive Drug Level Increased,23,5665.649,5793.884,79483.583
+Delflex With Dextrose 1 5 Low Magnesium Low Calcium,Fungal Peritoniti,29,3909.89,4026.035,79447.834
+Cilgavimab Tixagevimab,Breakthrough Covid 19,28,3378.84,3569.91,79337.846
+Orencia,Joint Swelling,2996,32.433,34.518,78157.838
+Cholestyramine,Product Solubility Abnormal,67,1295.678,1418.024,78154.591
+Beyfortu,bronchiolitis,73,1226.35,1312.776,77895.514
+Braftovi,Serou Retinal Detachment,103,1417.981,1444.202,77874.441
+Berinert,Hereditary Angioedema,257,336.724,367.716,77440.641
+Mircera,drug hypersensitivity,971,84.648,107.947,77311.129
+Xiaflex,Corpora Cavernosa Surgery,12,160512.7,161923.172,77168.715
+Hemangeol,Product Administered To Patient Of Inappropriate Age,241,373.479,397.481,77098.677
+Lumryz,Middle Insomnia,532,174.387,183.734,76643.296
+Acetaminophen Oxycodone Hydrochloride,Drug Withdrawal Syndrome Neonatal,756,133.454,138.518,76595.86
+Aduhelm,Amyloid Related Imaging Abnormality Microhaemorrhage And Haemosiderin Deposit,28,3074.569,3320.455,76398.442
+lithium,Nephrogenic Diabete Insipidu,53,1960.435,2023.26,76154.271
+lamivudine,virologic failure,145,620.831,656.667,76128.891
+Repatha,Product Preparation Error,2643,46.992,48.106,75508.448
+Elzonri,Capillary Leak Syndrome,30,2768.121,3034.19,75254.866
+Repatha,Product Communication Issue,2007,73.026,74.343,75217.71
+Orencia,Device Safety Feature Issue,454,1271.028,1283.117,75056.86
+minoxidil,Application Site Drynes,187,771.75,785.097,74927.621
+Unituxin,neuroblastoma,20,6223.489,6352.185,74658.271
+bupivacaine,Maternal Exposure During Delivery,35,2576.655,2703.624,74577.858
+lamivudine,Pathogen Resistance,196,426.967,460.947,74187.939
+Opzelura,vitiligo,128,758.82,785.712,74083.831
+Latisse,Blepharal Pigmentation,21,7006.5,7120.19,73547.583
+Eloctate,haemorrhage,543,142.403,181.758,73528.964
+Genotropin,Wrong Technique In Device Usage Proces,2203,42.409,44.416,73076.273
+Sterile Water,Periarthriti,12,6331.747,7948.108,73000.048
+Proactiv Md Adapalene Acne Treatment,Dry Skin,1759,46.885,52.15,72834.787
+Breztri,Device Use Issue,711,120.085,127.735,72820.745
+Alphagan P,Corneal Opacity,30,2848.228,3009.088,72769.696
+Paragard T 380A,Abnormal Uterine Bleeding,348,581.196,588.48,72625.398
+Epogen,Product Storage Error,545,136.664,247.348,72340.672
+Zyprexa Relprevv,Post Injection Delirium Sedation Syndrome,11,7412.735,7963.607,72274.524
+Oxbryta,Acute Chest Syndrome,181,1055.528,1068.882,71674.902
+Carbidopa Levodopa,Stoma Site Discharge,484,476.738,482.19,71359.769
+Ofev,idiopathic pulmonary fibrosis,315,510.374,517.631,71333.612
+erlotinib,Erythema Dyschromicum Perstan,12,20194.558,20418.309,71267.983
+lisinopril,angioedema,461,170.042,188.182,71259.57
+metoprolol,Brash Syndrome,186,511.512,527.932,71178.134
+minoxidil,Application Site Irritation,304,326.939,336.215,71062.441
+warfarin,Anticoagulation Drug Level Above Therapeutic,55,1737.675,1791.367,70929.149
+Truvada,Emotional Distres,1124,75.829,80.065,70814.195
+Risperdal,Abnormal Weight Gain,242,511.124,520.356,70158.591
+Calcium Chloride Dextrose Magnesium Chloride Sodium Chloride,Bloody Peritoneal Effluent,22,3619.987,3862.724,69975.639
+Daybue,Underdose,1034,78.359,83.979,69949.686
+bortezomib,Plasma Cell Myeloma Refractory,246,424.388,434.441,69786.38
+Orgovyx,Therapy Interrupted,1984,39.877,44.427,69688.906
+Rituxan,No Adverse Event,2315,33.525,39.329,69525.121
+Wixela Inhub,Device End Of Service,12,14472.105,14656.255,69456.656
+Kyleena,Device Expulsion,397,189.031,213.056,69316.633
+Tepezza,Deafnes Permanent,110,5577.031,5624.748,69239.22
+Rhopressa,Corneal Oedema,32,2446.158,2616.256,69179.693
+Ranitidine Hydrochloride,Gastric Cancer,274,291.564,309.671,69136.672
+Juxtapid,Diet Noncompliance,20,4792.766,4920.717,68440.04
+pegfilgrastim,Colony Stimulating Factor Therapy,24,37020.265,37320.219,68341.606
+Cimzia,rheumatoid arthritis,2723,31.225,32.975,68262.804
+Xulane,Product Adhesion Issue,125,560.423,772.326,67957.665
+Tapinarof,Folliculiti,191,378.085,437.024,67921.603
+Genotropin,Expired Device Used,666,221.21,224.33,67906.578
+Cathflo Activase,No Adverse Event,715,97.988,180.25,67842.901
+Endocet,Ill Defined Disorder,1149,63.869,75.311,67777.458
+Synagi,bronchiolitis,140,643.459,663.262,67673.757
+bortezomib,Plasma Cell Myeloma,702,110.576,118.342,67656.685
+Sevoflurane,Anaesthetic Complication Neurological,30,3158.079,3241.379,67631.038
+Talimogene Laherparepvec,Metastatic Malignant Melanoma,28,2651.852,2890.514,67602.991
+Carbidopa Levodopa,Freezing Phenomenon,484,395.167,399.684,67003.132
+Advil Dual Action With Acetaminophen,Product Use In Unapproved Indication,1019,68.473,114.772,66917.842
+Abecma,Cytokine Release Syndrome,233,299.315,378.39,66908.349
+Reguneal Lca,Peritoneal Dialysi Complication,31,2489.568,2633.229,66856.435
+Elmiron,Age Related Macular Degeneration,89,1154.866,1179.393,66795.773
+Xdemvy,Instillation Site Irritation,66,1268.958,1316.051,66692.578
+Kimyrsa,Multiple Use Of Single Use Product,78,917.861,1026.217,66553.365
+Acetaminophen Oxycodone Hydrochloride,Ill Defined Disorder,1903,39.743,43.701,66182.756
+Genotropin,Device Use Error,1514,59.047,60.951,66146.39
+Hydralazine Hydrochloride,Pulmonary Renal Syndrome,21,4041.491,4177.035,66078.257
+Tyrvaya,Nasal Discomfort,170,475.023,494.573,65846.934
+Children Motrin,Failure Of Child Resistant Product Closure,18,5581.228,5698.57,65663.6
+Atripla,Emotional Distres,796,93.998,100.966,65642.72
+Slynd,Heavy Menstrual Bleeding,263,277.68,300.104,65590.153
+Nuplazid,delusions,839,127.883,130.347,65448.849
+Antihemophilic Factor Human Recombinant,Anti Factor Viii Antibody Positive,20,3880.734,4062.03,65262.13
